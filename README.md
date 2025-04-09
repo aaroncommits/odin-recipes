@@ -1,7 +1,7 @@
  An HTML project to practice fundamentals such as:
 
  - File management structure
- - 'Boilerplate'content
+ - 'Boilerplate' content
  - Lists
  - Linking
 
